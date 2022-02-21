@@ -1,0 +1,8 @@
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\bin\Debug\IntChallenge.exe.config
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\bin\Debug\IntChallenge.exe
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\bin\Debug\IntChallenge.pdb
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\obj\Debug\IntChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\obj\Debug\IntChallenge.csproj.CoreCompileInputs.cache
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\obj\Debug\IntChallenge.exe
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\obj\Debug\IntChallenge.pdb
+C:\Users\AX\Desktop\IntegerChallenge\IntChallenge\obj\Debug\IntChallenge.csproj.AssemblyReference.cache
